@@ -34,6 +34,20 @@
 </div>
                                                                                       
 </td>
+
+<tr>
+<td width="50%">
+<h3 align="center">Análisis de E-commerce</h3>
+<div align="center">
+<a href="https://github.com/GG-IM/Analisis-de-ventas-de-E-commerce-" target="_blank"><img src="https://imgur.com/PDOD6jJ.jpg" alt="Análisis"></a>
+<p>
+<a href="https://github.com/GG-IM/Analisis-de-ventas-de-E-commerce-" target="_blank">
+<img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black">
+</p>
+<p>Analisis del rendimiento de un e-commerce en 2024 con Power BI</strong> </p>
+</div>
+                                                                                      
+</td>
 </table>
 
 ## 🏆 GitHub Trophies
